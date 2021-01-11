@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: misterm13.github.io
+Token: f96dae1f264785fa75297178d444071bc423b3c7f7128b709e6e37c959fefaa5
